@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "246072516298",
+    "firebase_url": "https://hoingmarry-ver1.firebaseio.com",
+    "project_id": "hoingmarry-ver1",
+    "storage_bucket": "hoingmarry-ver1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:246072516298:android:40fcc2ed8a71dcba91de33",
+        "android_client_info": {
+          "package_name": "com.hoingmarry.travelchat_v1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "246072516298-c5nlqi2idb1pqj6vlmoa0144psunpogu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hoingmarry.travelchat_v1",
+            "certificate_hash": "f18241bc89dfe00e5838ba281fa30089c67f3036"
+          }
+        },
+        {
+          "client_id": "246072516298-13anaist5vpl9m697t2se48nvl2tr06p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIJKfmAqgnhbyRKwbpUldIKCP7ToP9aMs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "246072516298-13anaist5vpl9m697t2se48nvl2tr06p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
